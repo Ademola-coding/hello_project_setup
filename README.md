@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+Set up a "Hello Microverse" project
 
-> Description the project.
+> understanding and making use of github workflow, linter test and .gitignore
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- githib
+- git 
+- vs code
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+none
 
 
 ## Getting Started
@@ -25,6 +25,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
 
 ### Setup
 
