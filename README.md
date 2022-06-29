@@ -1,45 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse!
-
-> My First Official Microverse Repository 
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+## Project Name
+Description the project.
 
 ## Built With
+Major languages
+Frameworks
+Technologies used
+Live Demo (if available)
+Live Demo Link
 
-- HTML
-- CSS
+##Getting Started
+This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 
+To get a local copy up and running follow these simple example steps.
 
-## Authors
+##Prerequisites
 
-👤 **ADEMOLA OWOEYE**
+Setup
+Install
+Usage
+Run tests
+Deployment
+Authors
 
+👤 **Author1**
 
-- GitHub: [@Ademola-coding](https://github.com/Ademola-coding)
-- Twitter: [@Steady1700](https://twitter.com/steady1700)
-- LinkedIn: [Ademola Owoeye](https://www.linkedin.com/in/ademola-owoeye-0bb344223/)
+GitHub: @githubhandle
+Twitter: @twitterhandle
+LinkedIn: LinkedIn
 
+👤 **Author2**
 
-## 🤝 Contributing
-
+GitHub: @githubhandle
+Twitter: @twitterhandle
+LinkedIn: LinkedIn
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Ademola-coding/hello_project_setup/issues).
+**Feel free to check the issues page.**
 
-## Show your support
-
+**Show your support**
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+**Acknowledgments**
+Hat tip to anyone whose code was used
+Inspiration
+etc
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+**📝 License**
+This project is MIT licensed.
