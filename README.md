@@ -18,56 +18,35 @@ none
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+understanding git and github.
+understanding .gitignore
+understanding linter test
 
 
 ### Setup
+create a repository in the github account
 
 ### Install
+git version control / git bash
+vs code
 
 ### Usage
+create a repository on github 
+click on action link
+search for super linter at the market place
+copy the words grom super linter and paste it in github workflow file
+create a pull request
+clone the repo in your git
+create necessary files 
+use .gitignore to untrack irrelevant files 
 
-### Run tests
-
-### Deployment
 
 
+## Author
 
-## Authors
+- GitHub: [https://github.com/Ademola-coding]
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
