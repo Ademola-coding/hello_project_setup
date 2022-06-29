@@ -1,59 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Set up a "Hello Microverse" project
+# Hello Microverse!
 
-> understanding and making use of github workflow, linter test and .gitignore
+> My First Official Microverse Repository 
 
+![screenshot](./app_screenshot.png)
+
+Additional description about the project and its features.
 
 ## Built With
 
-- githib
-- git 
-- vs code
-
-## Live Demo (if available)
-
-none
+- HTML
+- CSS
 
 
-## Getting Started
+## Authors
 
-### Prerequisites
-understanding git and github.
-understanding .gitignore
-understanding linter test
+👤 **ADEMOLA OWOEYE**
 
 
-### Setup
-create a repository in the github account
-
-### Install
-git version control / git bash
-vs code
-
-### Usage
-create a repository on github.
-
-click on action link.
-
-search for super linter at the market place.
-
-copy the words grom super linter and paste it in github workflow file.
-
-create a pull request.
-
-clone the repo in your git.
-
-create necessary files.
-
-use .gitignore to untrack irrelevant files .
+- GitHub: [@Ademola-coding](https://github.com/Ademola-coding)
+- Twitter: [@Steady1700](https://twitter.com/steady1700)
+- LinkedIn: [Ademola Owoeye](https://www.linkedin.com/in/ademola-owoeye-0bb344223/)
 
 
+## 🤝 Contributing
 
-## Author
+Contributions, issues, and feature requests are welcome!
 
-- GitHub: [https://github.com/Ademola-coding]
+Feel free to check the [issues page](https://github.com/Ademola-coding/hello_project_setup/issues).
 
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
