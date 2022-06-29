@@ -32,14 +32,21 @@ git version control / git bash
 vs code
 
 ### Usage
-create a repository on github 
-click on action link
-search for super linter at the market place
-copy the words grom super linter and paste it in github workflow file
-create a pull request
-clone the repo in your git
-create necessary files 
-use .gitignore to untrack irrelevant files 
+create a repository on github.
+
+click on action link.
+
+search for super linter at the market place.
+
+copy the words grom super linter and paste it in github workflow file.
+
+create a pull request.
+
+clone the repo in your git.
+
+create necessary files.
+
+use .gitignore to untrack irrelevant files .
 
 
 
